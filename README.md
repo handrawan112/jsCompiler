@@ -1,0 +1,2 @@
+# jsCompiler
+Simple JavaScript compiler
